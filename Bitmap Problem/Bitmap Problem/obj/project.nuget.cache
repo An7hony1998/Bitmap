@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlZbPr9bsVh4bZRIg95grEU4E8hvtGpqaRo/++0KbFRb9Aba8K9iMqaiHW9KbwLgpx/xzjkuP02rxLCD7+nomA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anthony\\source\\repos\\Bitmap Problem\\Bitmap Problem\\Bitmap Problem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
